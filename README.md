@@ -5,7 +5,7 @@ The images were transformed and resized using tf, then we fed them to the pretra
 A learning rate of 1e-4 was used, along with batch size of 8, and the training was conducted for 50 epochs.
 The best validation accuracy achieved by our model is 99.49%.
 
-![Abstract: ](Abstract.png)
+![Abstract:](Abstract.png)
 
 Training Summary:
 
