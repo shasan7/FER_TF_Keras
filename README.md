@@ -1,9 +1,13 @@
-Facial Expression Recognition using the CK+ dataset (https://www.kaggle.com/datasets/shawon10/ckplus).
+# Facial Expression Recognition using the CK+ dataset
 
-The images were transformed and resized using tf, then we fed them to the pretrained ResNet101 model for fine-Tuning. (Several other popular pre-trained models are also listed along with it).
+## Dataset Link: https://www.kaggle.com/datasets/shawon10/ckplus
 
-A learning rate of 1e-4 was used, along with batch size of 8, and the training was conducted for 50 epochs.
-The best validation accuracy achieved by our model is 99.49%.
+## Kaggle Notebook: https://www.kaggle.com/code/shasan07/fer-tf-keras
+
+The images were transformed and resized using tf, then we fed them to the **pretrained ResNet101 model for fine-Tuning**. (Several other popular pre-trained models are also listed along with it).
+
+A **learning rate of 1e-4** was used, along with **batch size of 8**, and the training was conducted for **50 epochs**.
+**The best validation accuracy achieved by our model is 99.49%**.
 
 ![Abstract:](Abstract.png)
 
